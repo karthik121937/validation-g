@@ -1,10 +1,10 @@
-# validation-g
+# validation-gmail
 npm package for gmail validation and profiling
 
 # Code Usage
 
 # require package
-const validation = require('validation-g');
+const validation = require('validation-gmail');
 
 # getProfile
 validation.getProfile('xxxxx@gmail.com',function(err,data){
