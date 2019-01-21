@@ -1,0 +1,23 @@
+{
+  "name": "validation-gmail",
+  "version": "1.0.1",
+  "description": "npm package for gmail validation and profiling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik121937/validation-g.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik121937/validation-g/issues"
+  },
+  "homepage": "https://github.com/karthik121937/validation-g#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
